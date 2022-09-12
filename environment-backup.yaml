@@ -1,4 +1,4 @@
-name: lsd
+name: ldm
 channels:
   - pytorch
   - defaults

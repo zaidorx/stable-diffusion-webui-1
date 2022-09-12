@@ -14,10 +14,10 @@ open_in_browser = False
 optimized = False
 
 # Run in Optimized Turbo Mode - Needs more VRAM than regular optimized mode, but is faster
-optimized_turbo = True
+optimized_turbo = False
 
 # Creates a public xxxxx.gradio.app share link to allow others to use your interface (requires properly forwarded ports to work correctly)
-share = True
+share = False
 
 
 # Enter other `--arguments` you wish to use - Must be entered as a `--argument ` syntax
